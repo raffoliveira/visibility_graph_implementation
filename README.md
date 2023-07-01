@@ -1,4 +1,4 @@
-# visibility_graph_implementation
+# Visibility Graph Implementation
 
 Este repositório apresenta a implementação de dois métodos de conversão de sinais de ECG em grafos para classificação de arritmias utilizando redes convolucionais de grafos ([GCN](https://tkipf.github.io/graph-convolutional-networks/)). As bibliotecas [DGL](https://www.dgl.ai/) e [PyTorch](https://pytorch.org/) são utilizadas na implementação das redes convolucionais de grafos.
 
