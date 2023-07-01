@@ -1,6 +1,6 @@
-# Visibility Graph Implementation
+# Visibility Graph e Vector Visibility Graph
 
-Este repositório apresenta a implementação de dois métodos de conversão de sinais de ECG em grafos para classificação de arritmias utilizando redes convolucionais de grafos ([GCN](https://tkipf.github.io/graph-convolutional-networks/)). As bibliotecas [DGL](https://www.dgl.ai/) e [PyTorch](https://pytorch.org/) são utilizadas na implementação das redes convolucionais de grafos. O conjunto de dados utilizado é o [The Massachusetts Institute of Technology - Beth Israel Hospital Arrhythmia Database](https://physionet.org/content/mitdb/1.0.0/).
+Este repositório apresenta a implementação de dois métodos de conversão de sinais de ECG em grafos para classificação de arritmias utilizando redes convolucionais de grafos ([GCN](https://tkipf.github.io/graph-convolutional-networks/)). Este foi o tema do meu mestrado em Ciência da Computação pela Universidade Federal de Ouro Preto. As bibliotecas [DGL](https://www.dgl.ai/) e [PyTorch](https://pytorch.org/) são utilizadas na implementação das redes convolucionais de grafos. O conjunto de dados utilizado é o [The Massachusetts Institute of Technology - Beth Israel Hospital Arrhythmia Database](https://physionet.org/content/mitdb/1.0.0/).
 
 + Visibility Graph (VG)
 
